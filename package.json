@@ -1,0 +1,15 @@
+{
+  "name": "mongodbFCC",
+  "version": "1.0.0",
+  "description": "Free Code Camp MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.6"
+  }
+}
